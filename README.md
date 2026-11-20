@@ -17,6 +17,6 @@ Customer retention, RFM segmentation, and revenue analysis across 5,881 retail c
 
 ## Dashboard Previews
 
-![Home Page](images/IKEA%20Home%20Page.png)
-![Overview Page](images/IKEA%20Overview%20Page.png)
-![RFM Page](images/IKEA%20RFM.png)
+![Home Page](Images/IKEA%20Home%20Page.png)
+![Overview Page](Images/IKEA%20Overview%20Page.png)
+![RFM Page](Images/IKEA%20RFM.png)
